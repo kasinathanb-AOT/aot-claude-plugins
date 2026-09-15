@@ -1,0 +1,9 @@
+# Collector snapshots contain a live PR portfolio — branch names, review state, thread bodies.
+# They are per-operator runtime state and must never be committed.
+state/
+*.tmp
+aot-state*.json
+
+node_modules/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+{
+  "name": "aot",
+  "version": "1.0.0",
+  "description": "PR portfolio queue, review loop, CI watch, merge-conflict resolution and migration-ticket intake for Desktop-to-Web test migration work.",
+  "author": {
+    "name": "AOT Technologies"
+  },
+  "repository": "https://github.com/AOT-Technologies/aot-claude-plugins",
+  "license": "UNLICENSED",
+  "keywords": ["aot", "test-migration", "github", "pull-requests", "code-review"]
+}

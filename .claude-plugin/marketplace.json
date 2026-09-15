@@ -1,0 +1,16 @@
+{
+  "name": "aot-tools",
+  "owner": {
+    "name": "AOT Technologies",
+    "url": "https://github.com/AOT-Technologies"
+  },
+  "description": "Internal Claude Code plugins for AOT engineering.",
+  "plugins": [
+    {
+      "name": "aot",
+      "source": "./plugins/aot",
+      "category": "productivity",
+      "tags": ["github", "pull-requests", "test-automation"]
+    }
+  ]
+}
